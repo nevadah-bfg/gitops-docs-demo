@@ -8,4 +8,4 @@ theme:
   logo: 'img/logo.png'
 extra_css: ['stylesheets/extra.css']
 repo_name: 'gitops-docs-demo'
-repo_url: 'https://github.com/aaron-goulet-bfg/gitops-docs-demo'
+repo_url: 'https://github.com/nevadah-bfg/gitops-docs-demo'
